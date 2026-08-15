@@ -2,9 +2,13 @@
 # Cybersecurity Lab Setup
 # Project Overview
 This project focuses on the design and implementation of a virtual cybersecurity and penetration-testing laboratory using Oracle VM VirtualBox and Kali Linux.
+
 The primary purpose of the laboratory is to establish a controlled, isolated, and repeatable environment in which cybersecurity tools and techniques can be safely studied and tested. The lab supports activities including network reconnaissance, network scanning, vulnerability assessment, security analysis, and other authorized penetration-testing exercises.
+
 The laboratory is configured using a private NAT Network, providing network isolation while allowing additional virtual machines to be introduced in the future as authorized target systems. This architecture enables practical cybersecurity exercises to be conducted without exposing test systems to the external network.
+
 # Objectives
+
 The key objectives of this project are to:
 •	Install and configure Oracle VM VirtualBox as the virtualization platform.
 •	Install or import Kali Linux as the primary cybersecurity virtual machine.
