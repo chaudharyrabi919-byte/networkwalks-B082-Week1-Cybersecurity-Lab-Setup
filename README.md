@@ -122,7 +122,7 @@ The most important concepts i learned include:
 4.VM Snapshots
 5.Documentation
 # Author
-linkedIn:https:
+linkedIn:https://www.linkedin.com/feed/
 
 
 
